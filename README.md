@@ -5,4 +5,4 @@ DIRECTIONS:
 1. Open the HelloBox or HelloBox.html
 2. Enter your name
 3. Press ENTER
-A greeting will appear under
+4. A greeting will appear under
